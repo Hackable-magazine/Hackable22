@@ -4,7 +4,7 @@
 #define B_RESET  A0  // reinitialisation
 #define B_RD     2   // lecture
 #define B_WR     3   // écriture
-#define PL       A3  // stockage dans 74HCT126
+#define PL       A3  // stockage dans 74HCT165
 
 // MOSI : 11 n/a
 // MISO : 12
